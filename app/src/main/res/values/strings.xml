@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTestProject</string>
+    <string name="screen_title_text">S.</string>
+    <string name="activity_description_text">First of the few steps to set you up with a Bank Account</string>
+    <string name="pan_number_hint_text">PAN NUMBER</string>
+    <string name="birthdate_title_text">BIRTHDATE</string>
+    <string name="dd_hint_text">DD</string>
+    <string name="month_hint_text">MM</string>
+    <string name="yyyy_et">YYYY</string>
+    <string name="prolicy_text">Providing PAN and Date of Birth helps us find and fetch your KYC from a central registry by the Government of India.Learn More</string>
+    <string name="next_btn_text">NEXT</string>
+    <string name="i_don_t_have_pan_text">I don\'t have PAN</string>
+</resources>

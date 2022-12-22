@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/primary_et_rounded_corner_grey_stroke" android:state_focused="false"/>
+    <item android:drawable="@drawable/primary_et_rounded_corner_blue_stroke" android:state_focused="true"/>
+
+</selector>

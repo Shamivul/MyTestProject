@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MyTestProject/app/src/main/res/drawable/bg_button.xml" value="0.119" />
+        <entry key="..\:/AndroidStudioProjects/MyTestProject/app/src/main/res/drawable/et_selectors.xml" value="0.119" />
+        <entry key="..\:/AndroidStudioProjects/MyTestProject/app/src/main/res/drawable/primary_et_bg.xml" value="0.119" />
+        <entry key="..\:/AndroidStudioProjects/MyTestProject/app/src/main/res/drawable/primary_et_rounded_corner_blue_stroke.xml" value="0.119" />
+        <entry key="..\:/AndroidStudioProjects/MyTestProject/app/src/main/res/drawable/primary_et_rounded_corner_grey_stroke.xml" value="0.119" />
+        <entry key="..\:/AndroidStudioProjects/MyTestProject/app/src/main/res/layout/activity_main.xml" value="0.15364583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
