@@ -76,8 +76,18 @@ class MainActivity : AppCompatActivity() {
         myViewModel!!.isSaved.observe(this) {
             if (it) {
                 Toast.makeText(this, "Saved", Toast.LENGTH_SHORT).show()
+                clearAllTexts()
             }
+
         }
+    }
+
+    private fun clearAllTexts() {
+        binding.dayEt.setText("")
+        binding.monthEt.setText("")
+        binding.yearEt.setText("")
+        binding.panNumberEditText.setText("")
+
     }
 
     private fun checkValidation() {
